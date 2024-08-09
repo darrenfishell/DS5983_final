@@ -1,0 +1,23 @@
+name: nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - datasets
+  - evaluate
+  - huggingface_hub
+  - jupyter
+  - matplotlib
+  - nltk
+  - pandas
+  - portalocker
+  - py7zr
+  - python=3.11
+  - pytorch
+  - pytorch::torchtext
+  - rouge-score
+  - scikit-learn
+  - spacy
+  - transformers
+  - accelerate
+prefix: /Users/Darren/miniconda3/envs/nlp
