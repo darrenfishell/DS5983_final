@@ -14,4 +14,4 @@ HF_INFERENCE=
 HF_API_TOKEN=
 ```
 
-Where HF_INFERENE is a restricted token only for the inference endpoint.
+Where `HF_INFERENCE` is a restricted token only for the inference endpoint.
